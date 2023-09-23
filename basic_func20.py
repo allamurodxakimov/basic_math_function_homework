@@ -9,4 +9,4 @@ def main(a, b):
         int: the result.
     '''
     return a*b
-print(main(3,6))
+print(main(3,6)) 
