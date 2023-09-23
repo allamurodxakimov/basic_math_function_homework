@@ -7,7 +7,7 @@ def main(a, b):
         
     Returns:
         int: the result.
-    '''
+    ''' 
     return a/b
 x = main(11,2)
 print(int(x))
